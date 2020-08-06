@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87ec1884b0c633742890d99735ae19f6, type: 3}
+  m_Name: startM
+  m_EditorClassIdentifier: 
+  messages:
+  - Now this is funny.
+  - The simple barber who commanded the Manjicas, the so-called revolution of the
+    people, decided to let you continue your work because of your background.
+  - Seems to me he had come to reason, but another barber took him out of power and
+    established the old lawmakers into power.
+  - "Itagua\xED sure sounds fun. I should come visit you someday."

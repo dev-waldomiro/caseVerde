@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87ec1884b0c633742890d99735ae19f6, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  messages:
+  - Hi im just a friend of a friend
+  - hi friend im enemy please yo yo
+  - im not your friend brother suck my d

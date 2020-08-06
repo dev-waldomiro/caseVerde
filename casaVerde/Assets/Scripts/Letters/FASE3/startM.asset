@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87ec1884b0c633742890d99735ae19f6, type: 3}
+  m_Name: startM
+  m_EditorClassIdentifier: 
+  messages:
+  - "Dear Sim\xE3o Bacamarte,"
+  - "It\u2019s so good that the institutions finally understood the importance of
+    science and it\u2019s space in the government's priorities. \r\n"
+  - "Now all rests on the will of the people. Though I know the backlash of this
+    finance is certainly real, you must convince the good people of Itagua\xED of
+    your good work."
+  - I see you have even develop your theory of the cerebral kind of pathologies.
+    Must not keep you here and trouble your research.

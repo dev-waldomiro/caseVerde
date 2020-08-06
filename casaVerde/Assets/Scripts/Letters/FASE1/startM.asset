@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87ec1884b0c633742890d99735ae19f6, type: 3}
+  m_Name: startM
+  m_EditorClassIdentifier: 
+  messages:
+  - "Mr. Sim\xE3o Bacamarte\r\n"
+  - The greatest doctor of Brazil, Portugal and these Spains! We are sad to see you
+    go back to that brazillian shore. The King himself advised against it, for your
+    absence will be felt.
+  - "But, oh, how you say it? \u201CScience is my only job, and Itagua\xED my universe.\u201D
+    If only they knew there how lucky they are."
+  - 'I see. You have decided to investigate the corner of the psyche, the cerebral
+    pathology. To that end, you must have cases to study your new field of research. '
+  - "\rOf course you will need an Estate to keep all them safe and let the local
+    population also be tranquil. But you must not forget your rent.\r\n"
